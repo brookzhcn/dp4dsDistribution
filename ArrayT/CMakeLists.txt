@@ -6,4 +6,4 @@ set(SOURCE_FILES
         ArrayTMain.cpp)
 
 add_executable(ArrayT ${SOURCE_FILES})
-target_link_libraries(ArrayT /Users/zhangheng/developer/clion/dp4dsDistribution/cmake-build-debug/Utilities/libUtilities.a)
+target_link_libraries(ArrayT /Users/zhangheng/developer/clion/dp4dsDistribution/Utilities/libUtilities.a)

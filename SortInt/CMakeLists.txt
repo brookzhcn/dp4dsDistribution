@@ -5,4 +5,4 @@ set(SOURCE_FILES
         SortIntMain.cpp)
 
 add_executable(SortInt ${SOURCE_FILES})
-target_link_libraries(SortInt /Users/zhangheng/developer/clion/dp4dsDistribution/cmake-build-debug/Utilities/libUtilities.a)
+target_link_libraries(SortInt /Users/zhangheng/developer/clion/dp4dsDistribution/Utilities/libUtilities.a)
